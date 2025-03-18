@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zdravko Nezirov</h1>
 <h3 align="center">Passionate about Data Science and AI</h3>
-<h3 align="center">My GitHub Streak</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZNezirov&theme=radical" alt="Zdravko's GitHub Streak" />
-</p>
-
 
 <h3 align="center">Connect with me on LinkedIn:</h3>
 <p align="center">
