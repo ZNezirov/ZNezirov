@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="left">Quick Randomizer</h3>
+<h3 align="left"></h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&center=true&vCenter=true&width=600&lines=Always+learning...;Exploring+AI...;Hacking+data..."/>
 </p>
